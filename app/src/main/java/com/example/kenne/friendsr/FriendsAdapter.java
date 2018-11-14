@@ -37,9 +37,6 @@ public class FriendsAdapter extends ArrayAdapter<Friend> {
         TextView name_view = convertView.findViewById(R.id.nameView);
         name_view.setText(name);
 
-        TextView bio_view = convertView.findViewById(R.id.bioView);
-        bio_view.setText(bio);
-
         ImageView image_view = convertView.findViewById(R.id.imageView);
         image_view.setImageDrawable(image);
 

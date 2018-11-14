@@ -18,14 +18,17 @@
 
     <RatingBar
         android:id="@+id/ratingBar"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:numStars="5" />
 
     <TextView
         android:id="@+id/profilename"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"
+        android:gravity="center"
         android:text="TextView" />
 
     <TextView
@@ -33,5 +36,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"
+        android:gravity="center"
         android:text="TextView" />
 </LinearLayout>
