@@ -4,7 +4,7 @@ De applicatie moet verschillende profielen kunnen laten zien. Nadat op een profi
 van het profiel met een grotere foto, een rating en hun racenummer als bio. De rating moet kunnen worden aangepast en worden opgeslagen, de waardes moeten weer op te halen zijn ook al sluit de gebruiker de applicatie.
 
 <p float="left">
-<img src="https://github.com/Kennitos/Week3-Friendsr/blob/master/f1.gif" width="300" height="532">
-<img src="https://github.com/Kennitos/Week3-Friendsr/blob/master/f1_screenshot1.png" width="300" height="532">
-<img src="https://github.com/Kennitos/Week3-Friendsr/blob/master/f1_screenshot2.png" width="300" height="532">
+<img src="https://github.com/Kennitos/Week3-Friendsr/blob/master/f1_screenshot1.png" width="250" height="443">
+<img src="https://github.com/Kennitos/Week3-Friendsr/blob/master/f1_screenshot2.png" width="250" height="443">
+<img src="https://github.com/Kennitos/Week3-Friendsr/blob/master/f1.gif" width="250" height="443">
 </p>
